@@ -1,7 +1,7 @@
 {
-  "name": "GAMEBOY",
+  "name": "sembulance",
   "description": "GameBoy Online GAMEBOY Emulator",
-  "launch_path": "/mobile.html",
+  "launch_path": "/index.html",
   "fullscreen": true,
   "icons": {
     "128": "/images/128.png"
